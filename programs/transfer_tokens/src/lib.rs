@@ -1,4 +1,4 @@
-#![allow(clippy::result_large_err)]
+#![allow(unexpected_cfgs)]
 
 use anchor_lang::prelude::*;
 
